@@ -1,5 +1,5 @@
 {
     "saiga_model_path": "models/saiga_yandexgpt_8b_gguf/saiga_yandexgpt_8b.Q6_K.gguf",
-    "ffmpeg_path": "C:\\Users\\User\\ffmpeg\\bin\\ffmpeg.exe",
-    "telegram_token": "7659456771:AAEqg9dqPv21QYoO_CnZ1IgQYlEHxvFOr6M"
+    "ffmpeg_path": "your_ffmpeg_path",
+    "telegram_token": "your_telegram_token"
 }
