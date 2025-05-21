@@ -1,0 +1,11 @@
+# Игнорировать окружение
+venv/
+__pycache__/
+.idea/
+models/
+buffer/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
