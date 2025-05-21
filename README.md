@@ -1,5 +1,7 @@
 # **TalkScriber** — Телеграм-бот для расшифровки голоса и составления текстового конспекта с использованием Vosk и YandexGPT
 
+![logo](https://github.com/user-attachments/assets/45b053b2-289c-4ae7-aaa9-45486d141ecc)
+
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Torch](https://img.shields.io/badge/Torch-2.7.0-orange)
 ![Vosk](https://img.shields.io/badge/Vosk-0.3.45-green)
