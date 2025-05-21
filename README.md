@@ -1,5 +1,7 @@
 # **TalkScriber** — Телеграм-бот для расшифровки голоса и составления текстового конспекта с использованием Vosk и YandexGPT
 
+![logo](https://github.com/user-attachments/assets/60bdfc1c-fe03-42f5-9785-513bbb77e10e)
+
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Torch](https://img.shields.io/badge/Torch-2.7.0-orange)
 ![Vosk](https://img.shields.io/badge/Vosk-0.3.45-green)
@@ -97,8 +99,9 @@ python bot.py
 
 ## Пример реализации
 
-*(Вставьте гиф или скриншот работы бота здесь)*
+Рассказанный боту текст: «Хочу рассказать про своего телеграм-бота — @talkscriber_bot. Это приложение, которое превращает голосовые сообщения в текстовые конспекты. Можно получить результат в виде Markdown, LaTeX или просто текста. В основе — Vosk для распознавания речи и YandexGPT для генерации конспектов. Всё работает прямо на процессоре, быстро и офлайн. Сейчас бот — в стадии MVP, но уже работает стабильно. Дальше — только лучше!»
 
+https://github.com/user-attachments/assets/586be47b-2c68-4250-b052-9a0c3fa1b7f5
 
 
 ## TODO
